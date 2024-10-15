@@ -1,0 +1,1359 @@
+{
+    "CAG3PL":[
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed1",//Accept order
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap1.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Open",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed2",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap2.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Order Receipt"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap3.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Ready to Ship",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed4",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap4.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "pickup-date",
+                        "value": null,
+                        "from": null,
+                        "to":"yyyy-mm-ddT16:00:00Z"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed5",//Accept order
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap5.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Airway Bill (-nothing suffix)"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed6",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap6.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "number-of-boxes",
+                        "value": null,
+                        "from": 1,
+                        "to": 3
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed7",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap7.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Airway Bill (-2 suffix)"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed8",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap8.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Airway Bill (-3 suffix)"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed9",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap9.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "number-of-boxes",
+                        "value": null,
+                        "from": 3,
+                        "to": 1
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed10",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap10.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Deletion",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Airway Bill (-3 and -2 suffixes are deleted)"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed11",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap11.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "pickup-date",
+                        "value": null,
+                        "from": " yyyy-mm-ddT16:00:00Z",
+                        "to": " yyyy-mm-ddT16:00:00Z"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed12",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap12.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "picked-up-by-courier",
+                        "value": null,
+                        "from": null,
+                        "to": "dd-mm-yyyy hh:mm"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed13",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap13.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Shipping in Progress",
+                "subdetails": [
+                    {
+                        "field": "Carrier",
+                        "value": null,
+                        "from": null,
+                        "to": "Ninjavan Corperate"
+                    },
+                    {
+                        "field": "Tracking number",
+                        "value": null,
+                        "from": null,
+                        "to": "ISCxxx"
+                    },
+                    {
+                        "field": "Tracking URL",
+                        "value": null,
+                        "from": null,
+                        "to": "https://www.ninjavan.co/en-sg/tracking?id=ISCxxx "
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed14",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap14.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "delivered-by-courier",
+                        "value": null,
+                        "from": null,
+                        "to": "dd-mm-yyyy hh:mm"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed15",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap15.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Delivered to Customer",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        }
+    ],
+    "Merchant3PL":[
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed16",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap16.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Open",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed17",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap17.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Order Receipt"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed18",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap18.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Ready to Ship",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Order Receipt"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed19",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap19.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "Carrier",
+                        "value": null,
+                        "from": null,
+                        "to": "xxx"
+                    },
+                    {
+                        "field": "Tracking number",
+                        "value": null,
+                        "from": null,
+                        "to": "xxx"
+                    },
+                    {
+                        "field": "Tracking URL",
+                        "value": null,
+                        "from": null,
+                        "to": "xxx"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed20",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap20.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Shipping in Progress",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Order Receipt"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed21",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap21.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Customer Acknowledgement Slip"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed22",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap22.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom Field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "Carrier",
+                        "value": null,
+                        "from": null,
+                        "to": "xxx"
+                    },
+                    {
+                        "field": "Tracking number",
+                        "value": null,
+                        "from": null,
+                        "to": "xxx"
+                    },
+                    {
+                        "field": "Tracking URL",
+                        "value": null,
+                        "from": null,
+                        "to": "xxx"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed23",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap23.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Delivered to Customer",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        }
+
+
+        
+    ],
+    "CAG Consol (SG Del)":[
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed24",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap24.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Open",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed25",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap25.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Order Receipt"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed26",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap26.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Ready to Ship",
+                "subdetails": [
+                    {
+                        "field": "Remarks",
+                        "value": null,
+                        "from": null,
+                        "to": "This field shows who processed the order in Mirakl/Trex"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed27",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap27.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Shipping in Progress",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed28",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap28.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "Delivery Order"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed29",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap29.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "picked-up-by-courier",
+                        "value": null,
+                        "from": null,
+                        "to": "dd-mm-yyyy hh:mm"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed30",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap30.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "delivered-by-courier",
+                        "value": null,
+                        "from": null,
+                        "to": "dd-mm-yyyy hh:mm"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed31",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap31.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Custom field",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "delivered-by-courier",
+                        "value": null,
+                        "from": null,
+                        "to": "dd-mm-yyyy hh:mm"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed32",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap32.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Update",
+                "subdetails": [
+                    {
+                        "field": "Delivered to Customer",
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        }
+    
+    ],
+    "Consol":[
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed33",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap33.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Open",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed34",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap34.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "OrderReceiptA-DC2405020390-2043-A.pdf"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed35",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap35.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "OrderReceiptB-DC2405020390-2043-A.pdf"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed36",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap36.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Ready to Ship",
+                "subdetails": [
+                    {
+                        "field": "Remarks",
+                        "value": null,
+                        "from": null,
+                        "to": "This field shows who processed the order in Trex"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed37",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap37.isc@changiairport.com",
+            "role": "1",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "DeliveryOrder-DC2405020390-2043-A.pdf"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed38",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap38.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Shipping in Progress",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed39",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap39.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Delivered to Customer",
+                "subdetails": [
+                    {
+                        "field": "Remarks",
+                        "value": null,
+                        "from": null,
+                        "to": "This order status indicate that the customer had successfully picked up the order."
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        }
+
+
+    ],
+    "Full Refund":[
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed40",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap40.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Refund",
+            "details": {
+                "modificationSubHead": "Requested",
+                "subdetails": [
+                    {
+                        "field": "Order line",
+                        "value": null,
+                        "from": null,
+                        "to": "[PRODUCT NAME]"
+                    },
+                    {
+                        "field": "Reason",
+                        "value": null,
+                        "from": null,
+                        "to": "[REASON]"
+                    }
+                    ,
+                    {
+                        "field": "Quantity",
+                        "value": null,
+                        "from": null,
+                        "to": "x"
+                    },
+                    {
+                        "field": "Amount",
+                        "value": null,
+                        "from": null,
+                        "to": "SGD"
+                    },
+                    {
+                        "field": "ID",
+                        "value": null,
+                        "from": null,
+                        "to": "XXXXX"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed41",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap41.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Refund",
+            "details": {
+                "modificationSubHead": "Refunded",
+                "subdetails": [
+                    {
+                        "field": "Order line",
+                        "value": null,
+                        "from": null,
+                        "to": "[PRODUCT NAME]"
+                    },
+                    {
+                        "field": "Reason",
+                        "value": null,
+                        "from": null,
+                        "to": "[REASON]"
+                    }
+                    ,
+                    {
+                        "field": "Quantity",
+                        "value": null,
+                        "from": null,
+                        "to": "x"
+                    },
+                    {
+                        "field": "Amount",
+                        "value": null,
+                        "from": null,
+                        "to": "SGD"
+                    },
+                    {
+                        "field": "ID",
+                        "value": null,
+                        "from": null,
+                        "to": "XXXXX"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed42",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap42.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Order Status",
+            "details": {
+                "modificationSubHead": "Closed",
+                "subdetails": [
+                    {
+                        "field": "Refunded",
+                        "value": null,
+                        "from": null,
+                        "to": null
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        }
+   
+
+    ],
+    "Partial Refund":[
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed43",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap41.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Refund",
+            "details": {
+                "modificationSubHead": "Requested",
+                "subdetails": [
+                    {
+                        "field": "Order line",
+                        "value": null,
+                        "from": null,
+                        "to": "[PRODUCT NAME]"
+                    },
+                    {
+                        "field": "Reason",
+                        "value": null,
+                        "from": null,
+                        "to": "[REASON]"
+                    }
+                    ,
+                    {
+                        "field": "Quantity",    
+                        "value": null,
+                        "from": null,
+                        "to": "x"
+                    },
+                    {
+                        "field": "Amount",
+                        "value": null,
+                        "from": null,
+                        "to": "SGD"
+                    },
+                    {
+                        "field": "ID",
+                        "value": null,
+                        "from": null,
+                        "to": "XXXXX"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed44",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap44.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Deletion",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "OrderReceiptA-DCddmmyyxxxx-xxxx-A.pdf"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed45",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap45.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "OrderReceiptA-DCddmmyyxxxx-xxxx-A.pdf "
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed46",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap46.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Deletion",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "OrderReceiptB-DCddmmyyxxxx-xxxx-A.pdf"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed47",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap47.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Document",
+            "details": {
+                "modificationSubHead": "Upload",
+                "subdetails": [
+                    {
+                        "field": null,
+                        "value": null,
+                        "from": null,
+                        "to": "OrderReceiptB-DCddmmyyxxxx-xxxx-A.pdf "
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        },
+        {
+            "uniqueId": "e0651c70-9746-4677-bd2e-49f366162fed48",
+            "creationDateTime": "2024-08-08T13:34:50",
+            "ipAddress": "57.140.24.56",
+            "userEmail": "sap48.isc@changiairport.com",
+            "role": "2",
+            "shopId": "2000",
+            "orderId": " NC2408082002DP-2000",
+            "urlPath": "merchant-management/all-merchants/2275",
+            "backendAction": "Order_Update_WAITING_DEBIT_PAYMENT",
+            "action": "Refund",
+            "details": {
+                "modificationSubHead": "[Refunded] OR [Partially refunded]",
+                "subdetails": [
+                    {
+                        "field": "Order line",
+                        "value": null,
+                        "from": null,
+                        "to": "[PRODUCT NAME]"
+                    },
+                    {
+                        "field": "Reason",
+                        "value": null,
+                        "from": null,
+                        "to": "[REASON]"
+                    },
+                    {
+                        "field": "Quantity",
+                        "value": null,
+                        "from": null,
+                        "to": "x"
+                    },
+                    {
+                        "field": "Amount",
+                        "value": null,
+                        "from": null,
+                        "to": "SGD"
+                    },
+                    {
+                        "field": "ID",
+                        "value": null,
+                        "from": null,
+                        "to": "XXXXX"
+                    }
+                ]
+            },
+            "linkedRawRecordId": "e0651c70-9746-4677-bd2e-49f366162fed3",
+            "isDisplay": "no"
+        }
+ 
+
+    ]
+} 

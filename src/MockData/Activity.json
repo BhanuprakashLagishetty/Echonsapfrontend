@@ -1,0 +1,127 @@
+{
+  "username": "john_doe",
+  "fullName": "John Doe",
+  "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+  "bio": "Photographer | Traveler | Foodie",
+  "activity": [
+    {
+      "type": "comment",
+      "byUser": {
+        "username": "jane_smith",
+        "fullName": "Jane Smith",
+        "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg"
+      },
+      "post": {
+        "postId": "1234567890",
+        "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "caption": "Sunset at the beach 🌅"
+      },
+      "commentText": "Beautiful view! 😍",
+      "timestamp": "2024-08-20T19:00:00Z"
+    },
+    {
+      "type": "follow",
+      "byUser": {
+        "username": "mike_jones",
+        "fullName": "Mike Jones",
+        "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      "timestamp": "2024-08-20T18:45:00Z"
+    },
+    {
+      "type": "like",
+      "byUser": {
+        "username": "sarah_lee",
+        "fullName": "Sarah Lee",
+        "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg"
+      },
+      "post": {
+        "postId": "1234567890",
+        "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+        "caption": "Sunset at the beach 🌅"
+      },
+      "timestamp": "2024-08-20T18:50:00Z"
+    },
+    {
+      "type": "like",
+      "byUser": {
+        "username": "alice_wong",
+        "fullName": "Alice Wong",
+        "profilePicture": "https://randomuser.me/api/portraits/women/5.jpg"
+      },
+      "post": {
+        "postId": "0987654321",
+        "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b",
+        "caption": "Delicious brunch! 🥞"
+      },
+      "timestamp": "2024-08-19T10:15:00Z"
+    },
+    {
+      "type": "comment",
+      "byUser": {
+        "username": "linda_kim",
+        "fullName": "Linda Kim",
+        "profilePicture": "https://randomuser.me/api/portraits/women/6.jpg"
+      },
+      "post": {
+        "postId": "2345678901",
+        "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
+        "caption": "Mountain hike adventure! 🏞️"
+      },
+      "commentText": "Looks amazing! Where is this?",
+      "timestamp": "2024-08-18T16:30:00Z"
+    },
+    {
+      "type": "follow",
+      "byUser": {
+        "username": "mark_roberts",
+        "fullName": "Mark Roberts",
+        "profilePicture": "https://randomuser.me/api/portraits/men/6.jpg"
+      },
+      "timestamp": "2024-08-18T12:20:00Z"
+    },
+    {
+      "type": "share",
+      "byUser": {
+        "username": "emma_white",
+        "fullName": "Emma White",
+        "profilePicture": "https://randomuser.me/api/portraits/women/7.jpg"
+      },
+      "post": {
+        "postId": "3456789012",
+        "imageUrl": "https://images.unsplash.com/photo-1497113341877-ec3756c7294f",
+        "caption": "Best coffee in town ☕️"
+      },
+      "timestamp": "2024-08-17T09:05:00Z"
+    },
+    {
+      "type": "like",
+      "byUser": {
+        "username": "oliver_smith",
+        "fullName": "Oliver Smith",
+        "profilePicture": "https://randomuser.me/api/portraits/men/7.jpg"
+      },
+      "post": {
+        "postId": "4567890123",
+        "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "caption": "Chasing sunsets 🌇"
+      },
+      "timestamp": "2024-08-16T14:40:00Z"
+    },
+    {
+      "type": "comment",
+      "byUser": {
+        "username": "sophia_jones",
+        "fullName": "Sophia Jones",
+        "profilePicture": "https://randomuser.me/api/portraits/women/8.jpg"
+      },
+      "post": {
+        "postId": "5678901234",
+        "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "caption": "City lights at night ✨"
+      },
+      "commentText": "This is stunning!",
+      "timestamp": "2024-08-15T21:50:00Z"
+    }
+  ]
+}

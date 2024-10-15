@@ -1,0 +1,15 @@
+
+.customeTabs {
+    display: flex !important;
+    justify-content: sp !important;
+  }
+  
+  /* Specific selector */
+  .customeTabs .MuiTab-root {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-around !important;
+    margin-right: 50px !important;
+    margin-top: 30px;
+  }
+  

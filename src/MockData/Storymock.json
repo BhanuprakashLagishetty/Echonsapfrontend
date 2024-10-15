@@ -1,0 +1,72 @@
+{
+  "steps": [
+    {
+      "content": [
+        { 
+          "storyImageUrl": "https://i.imgur.com/4HmVYKq.png",
+          "userProfileUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+          "username": "user1"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+          "userProfileUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+          "username": "user2"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+          "userProfileUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+          "username": "user3"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+          "userProfileUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+          "username": "user4"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+          "userProfileUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+          "username": "user5"
+        },
+        { 
+          "storyImageUrl": "https://i.imgur.com/4HmVYKq.png",
+          "userProfileUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+          "username": "user6"
+        }
+      ]
+    },
+    {
+      "content": [
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+          "userProfileUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+          "username": "user7"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+          "userProfileUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+          "username": "user8"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+          "userProfileUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+          "username": "user9"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+          "userProfileUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+          "username": "user10"
+        },
+        { 
+          "storyImageUrl": "https://i.imgur.com/4HmVYKq.png",
+          "userProfileUrl": "https://randomuser.me/api/portraits/men/6.jpg",
+          "username": "user11"
+        },
+        { 
+          "storyImageUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+          "userProfileUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+          "username": "user12"
+        }
+      ]
+    }
+  ]
+}

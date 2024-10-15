@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "postId": "001",
+      "imageUrl": "https://i.imgur.com/4HmVYKq.png",
+      "caption": "Golkonda fort is a beautiful place and very historical.",
+      "username": "Bhanuprakash Lagishetty",
+      "dateTime": "2024-08-21T10:00:00Z",
+      "userImage": "https://i.imgur.com/4HmVYKq.png"
+    },
+    {
+      "postId": "002",
+      "imageUrl": "https://www.elle.com.au/wp-content/uploads/sites/6/2017/06/insta-followers-600.jpg",
+      "caption": "I don't care about others, I only focus on my goals. Don't follow girls, follow your goals.",
+      "username": "motivated_mind",
+      "dateTime": "2024-08-21T11:30:00Z",
+      "userImage": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "postId": "003",
+      "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b",
+      "caption": "Morning walk in the forest. Morning is fantastic for all the members.",
+      "username": "nature_explorer",
+      "dateTime": "2024-08-20T07:45:00Z",
+      "userImage": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "postId": "004",
+      "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
+      "caption": "Hiking through the mountains 🏞️",
+      "username": "mountain_adventurer",
+      "dateTime": "2024-08-19T14:15:00Z",
+      "userImage": "https://randomuser.me/api/portraits/men/33.jpg"
+    },
+    {
+      "postId": "005",
+      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "caption": "I'm the person who always cares about others, and being lonely is my passion✨",
+      "username": "lonely_philosopher",
+      "dateTime": "2024-08-18T18:30:00Z",
+      "userImage": "https://randomuser.me/api/portraits/women/23.jpg"
+    }
+  ]
+}
